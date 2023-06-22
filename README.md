@@ -6,6 +6,6 @@
 - jalankan server dengan python manage.py runserver
 - buka browser dan ketikan URL localhost:8000
 
-## login menggunakan sebagai admin:
+## Login menggunakan akun admin:
 username = admin
 password = admin123
